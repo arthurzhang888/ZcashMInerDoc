@@ -79,8 +79,9 @@ Hope it can help somebody!
 
 Accept donate 
 ZEC: t1dY6yNRb8RHTmTUuyAiEEbXojfkiWPgNUF
+
 BTC: 1Nf2QZCdsGb2giXiUZE5i4vvp5yvwXGEu2
-ETH: 0x91ad2d34f03f0a8a50753bc7fc0dd4dc64454985
+
 
 
 
